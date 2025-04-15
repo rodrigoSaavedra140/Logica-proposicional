@@ -1,3 +1,3 @@
 # Logica-proposicional
 
-Proyecto para aydar a la enseñanza de logica proposicional
+Proyecto para ayudar a la enseñanza de logica proposicional
